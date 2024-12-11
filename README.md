@@ -1,1 +1,1 @@
-# Fitness-Dashboard---Power-BI
+# Fitness Dashboard - Power BI
